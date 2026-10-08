@@ -31,7 +31,7 @@ Please note that these keyboard shortcuts are disabled when in build mode
 
 ### Map linking URL
 The map can be found here:
-- [https://supragamescommunity.github.io/maps](https://supragamescommunity.github.io/maps)
+- [(https://slothensw.github.io/maps/)](https://slothensw.github.io/maps/)
 
 In addition you can share a link to a specific map, zoom level and position:  
 `https://supragamescommunity.github.io/maps/#mapId={map}&lat={lat}&lng={lng}&zoom={zoom}`
